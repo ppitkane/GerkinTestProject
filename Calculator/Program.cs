@@ -8,12 +8,11 @@ namespace Calculator
         {
             var calc = new SimpleCalculator();
 
-            var num1 = 1.0m;
-            var num2 = 3.5m;
+            var num1 = 1;
+            var num2 = 3;
             Console.WriteLine("Numbers {0} and {1} added together is {2}", num1, num2, calc.Add(num1, num2));
             Console.WriteLine("Numbers {0} and {1} subtracted gives {2}", num1, num2, calc.Subtract(num1, num2));
             Console.WriteLine("Numbers {0} and {1} multiplied gives {2}", num1, num2, calc.Multiply(num1, num2));
-            Console.WriteLine("Numbers {0} and {1} divided gives {2}", num1, num2, calc.Divide(num1, num2));
         }
     }
 }

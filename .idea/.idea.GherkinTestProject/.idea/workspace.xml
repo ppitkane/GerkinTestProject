@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fb35eb0-936f-4b52-8593-3de0653ae562" name="Default Changelist" comment="Update 1">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GherkinTestProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GherkinTestProject/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Calculator/SimpleCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CalculatorUnitTests/CalculatorUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CalculatorUnitTestsGherkinQuick/CalculatorUnitTestSteps.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Calculator/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CalculatorUnitTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Calculator/Calculator.cs" />
+        <option value="$PROJECT_DIR$/CalculatorUnitTestsGherkinQuick/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/CalculatorUnitTestsGherkinQuick/CalculatorUnitTestsGherkinQuick.csproj" />
+        <option value="$PROJECT_DIR$/CalculatorUnitTestsGherkinQuick/CalculatorUnitTests.feature" />
+        <option value="$PROJECT_DIR$/CalculatorUnitTestsGherkinQuick/SimpleCalculator.cs" />
+        <option value="$PROJECT_DIR$/CalculatorUnitTestsGherkinQuick/CalculatorUnitTestSteps.cs" />
+        <option value="$PROJECT_DIR$/Calculator/Program.cs" />
+        <option value="$PROJECT_DIR$/CalculatorUnitTests/CalculatorUnitTest.cs" />
+        <option value="$PROJECT_DIR$/CalculatorUnitTestsGherkinQuick/CalculatorUnitTestSteps.feature" />
+        <option value="$PROJECT_DIR$/Calculator/SimpleCalculator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aynCwWvldhynqVKw2kjywYgwt5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Cucumber.js.CalculatorUnitTestSteps.feature">
+    <configuration name="Calculator" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Calculator/Calculator.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorUnitTestSteps.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/CalculatorUnitTestsGherkinQuick/CalculatorUnitTestSteps.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber.js.CalculatorUnitTestSteps.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fb35eb0-936f-4b52-8593-3de0653ae562" name="Default Changelist" comment="" />
+      <created>1587716577278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587716577278</updated>
+      <workItem from="1587716580636" duration="5326000" />
+      <workItem from="1587721959562" duration="2105000" />
+      <workItem from="1587725088766" duration="127000" />
+      <workItem from="1587726468767" duration="1567000" />
+      <workItem from="1587728126281" duration="606000" />
+      <workItem from="1587731555778" duration="1555000" />
+      <workItem from="1587735193895" duration="121000" />
+      <workItem from="1587735333316" duration="872000" />
+      <workItem from="1587736242215" duration="1565000" />
+      <workItem from="1587737831719" duration="137000" />
+      <workItem from="1587738094071" duration="2280000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update 1">
+      <created>1587726699193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587726699193</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update 1">
+      <created>1587739781435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587739781435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Update 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2143" y="-336" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587727065798">
+      <screen x="1920" y="-403" width="1536" height="824" />
+    </state>
+    <state x="2143" y="-336" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-403.1536.824@1920.-403.1536.824" timestamp="1587727065798" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587721937367">
+      <screen x="1920" y="-403" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-403.1536.824@0.0.1536.824" timestamp="1587716804504" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-403.1536.824@1920.-403.1536.824" timestamp="1587721937367" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587721937367">
+      <screen x="1920" y="-403" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.-403.1536.824@0.0.1536.824" timestamp="1587716804504" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.-403.1536.824@1920.-403.1536.824" timestamp="1587721937367" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587721937367">
+      <screen x="1920" y="-403" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.-403.1536.824@0.0.1536.824" timestamp="1587716804504" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.-403.1536.824@1920.-403.1536.824" timestamp="1587721937367" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587721937367">
+      <screen x="1920" y="-403" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.-403.1536.824@0.0.1536.824" timestamp="1587716804504" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.-403.1536.824@1920.-403.1536.824" timestamp="1587721937367" />
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1587717439175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824/1920.-403.1536.824@0.0.1536.824" timestamp="1587717439175" />
+    <state x="2197" y="-346" key="SettingsEditor" timestamp="1587738722650">
+      <screen x="1920" y="-403" width="1536" height="824" />
+    </state>
+    <state x="2197" y="-346" key="SettingsEditor/0.0.1536.824/1920.-403.1536.824@1920.-403.1536.824" timestamp="1587738722650" />
+    <state x="2405" y="-183" key="jetbrains.nodejs.interpreters-dialog" timestamp="1587726946402">
+      <screen x="1920" y="-403" width="1536" height="824" />
+    </state>
+    <state x="2405" y="-183" key="jetbrains.nodejs.interpreters-dialog/0.0.1536.824/1920.-403.1536.824@1920.-403.1536.824" timestamp="1587726946402" />
+    <state x="2351" y="-258" width="672" height="678" key="search.everywhere.popup" timestamp="1587738716508">
+      <screen x="1920" y="-403" width="1536" height="824" />
+    </state>
+    <state x="2351" y="-258" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.-403.1536.824@1920.-403.1536.824" timestamp="1587738716508" />
+  </component>
+</project>
